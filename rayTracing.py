@@ -1,3 +1,5 @@
+# Mariana Simões Penello Meirelles  -  DRE:121055817
+
 import numpy as np
 from PIL import Image
 from IPython.display import display
